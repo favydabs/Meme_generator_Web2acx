@@ -23,8 +23,7 @@ main {
 .header--image {
   height: 100%;
   margin-right: 6px;
-  border-radius:3rem;
-
+  border-radius: 3rem;
 }
 
 .header--title {
